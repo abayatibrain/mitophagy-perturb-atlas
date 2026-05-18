@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "mitophagy-perturb-atlas"
+abstract: "A queryable atlas of CRISPR perturbation phenocopy signals over the PINK1/Parkin mitophagy pathway."
+authors:
+  - family-names: "Bayati"
+    given-names: "Armin"
+    email: "a.bayati.brain@gmail.com"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/arminbayati/mitophagy-perturb-atlas"
+url: "https://arminbayati.github.io/mitophagy-perturb-atlas/"
+license: MIT
+version: "0.1.0"
+date-released: "2026-05-18"
+keywords:
+  - bioinformatics
+  - computational-biology
+  - neurodegeneration
