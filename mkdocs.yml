@@ -1,8 +1,8 @@
 site_name: mitophagy-perturb-atlas
 site_description: A queryable atlas of CRISPR perturbation phenocopy signals over the PINK1/Parkin mitophagy pathway.
-site_url: https://arminbayati.github.io/mitophagy-perturb-atlas/
-repo_url: https://github.com/arminbayati/mitophagy-perturb-atlas
-repo_name: arminbayati/mitophagy-perturb-atlas
+site_url: https://abayatibrain.github.io/mitophagy-perturb-atlas/
+repo_url: https://github.com/abayatibrain/mitophagy-perturb-atlas
+repo_name: abayatibrain/mitophagy-perturb-atlas
 edit_uri: edit/main/docs/
 
 theme:

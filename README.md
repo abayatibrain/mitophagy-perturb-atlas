@@ -2,7 +2,7 @@
 
 *A queryable atlas of CRISPR perturbation signals over the PINK1/Parkin mitophagy pathway — finds which gene perturbations phenocopy PRKN loss, with the cellular contexts where the signal lives.*
 
-[![CI](https://github.com/arminbayati/mitophagy-perturb-atlas/actions/workflows/ci.yml/badge.svg)](https://github.com/arminbayati/mitophagy-perturb-atlas/actions/workflows/ci.yml) ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
+[![CI](https://github.com/abayatibrain/mitophagy-perturb-atlas/actions/workflows/ci.yml/badge.svg)](https://github.com/abayatibrain/mitophagy-perturb-atlas/actions/workflows/ci.yml) ![License](https://img.shields.io/badge/License-MIT-blue.svg) ![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 
 ## What biological question this answers
 
@@ -42,7 +42,7 @@ flowchart LR
 ## Quickstart
 
 ```bash
-git clone https://github.com/arminbayati/mitophagy-perturb-atlas
+git clone https://github.com/abayatibrain/mitophagy-perturb-atlas
 cd mitophagy-perturb-atlas
 uv sync
 ./scripts/download_data.sh

@@ -40,9 +40,9 @@ viz = ["matplotlib>=3.8", "seaborn>=0.13", "plotly>=5.22"]
 mitophagy-perturb-atlas = "mitophagy_perturb_atlas.cli:app"
 
 [project.urls]
-Homepage = "https://github.com/arminbayati/mitophagy-perturb-atlas"
-Documentation = "https://arminbayati.github.io/mitophagy-perturb-atlas/"
-Issues = "https://github.com/arminbayati/mitophagy-perturb-atlas/issues"
+Homepage = "https://github.com/abayatibrain/mitophagy-perturb-atlas"
+Documentation = "https://abayatibrain.github.io/mitophagy-perturb-atlas/"
+Issues = "https://github.com/abayatibrain/mitophagy-perturb-atlas/issues"
 
 [dependency-groups]
 dev = [

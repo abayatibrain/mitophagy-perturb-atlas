@@ -7,8 +7,8 @@ authors:
     given-names: "Armin"
     email: "a.bayati.brain@gmail.com"
     orcid: "https://orcid.org/0000-0000-0000-0000"
-repository-code: "https://github.com/arminbayati/mitophagy-perturb-atlas"
-url: "https://arminbayati.github.io/mitophagy-perturb-atlas/"
+repository-code: "https://github.com/abayatibrain/mitophagy-perturb-atlas"
+url: "https://abayatibrain.github.io/mitophagy-perturb-atlas/"
 license: MIT
 version: "0.1.0"
 date-released: "2026-05-18"
