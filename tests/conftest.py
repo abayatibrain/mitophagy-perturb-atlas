@@ -1,4 +1,5 @@
 """Pytest configuration and shared fixtures for mitophagy_perturb_atlas."""
+
 from __future__ import annotations
 
 from pathlib import Path
